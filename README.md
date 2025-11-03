@@ -1,4 +1,4 @@
-Durante as aulas do curso de Análise e Desenvolvimento de Sistemas (ADS), foi passada uma lista de exercícios práticos para desenvolver habilidades em Python.
+Durante as aulas de Análise e Desenvolvimento de Sistemas (ADS), foi passada uma lista de exercícios práticos para desenvolver habilidades em Python.
 
 Neste exercício (I1), o desafio foi criar um script que classifica o nível de risco de vulnerabilidade com base em uma pontuação (score CVSS) e retorna uma recomendação de ação apropriada.
 
